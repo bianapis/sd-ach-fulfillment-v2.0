@@ -1,0 +1,37 @@
+{
+  "outboundACHInstanceRecord" : {
+    "outboundACHTransactionBatchReference" : "706318"
+  },
+  "reconciliationUpdateActionTaskReference" : "RUATR795930",
+  "reconciliationInstanceRecord" : {
+    "aCHReconciliationTaskResult" : "aCHReconciliationTaskResult"
+  },
+  "updateResponseRecord" : {},
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "payerProductInstanceReference" : "740162",
+      "amount" : "USD 250",
+      "paymentTransactionInitiatorReference" : "748767",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "745358",
+      "payeeProductInstanceReference" : "714140",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "767801",
+      "payerBankReference" : "760052",
+      "payeeBankReference" : "761088",
+      "currency" : "USD"
+    },
+    "inboundACHTransactionBatchReference" : "777001",
+    "aCHPaymentTransactionReference" : "705615"
+  },
+  "clearingandSettlementInstanceRecord" : {
+    "correspondentBankClearingAgreementSettlementInstructions" : "correspondentBankClearingAgreementSettlementInstructions",
+    "correspondentBankReference" : "749371",
+    "correspondentBankClearingAgreementClearingInstructions" : "correspondentBankClearingAgreementClearingInstructions",
+    "mirrorNostroAccountReference" : "763724",
+    "correspondentBankClearingAgreementReference" : "730591"
+  },
+  "reconciliationUpdateActionTaskRecord" : {}
+}

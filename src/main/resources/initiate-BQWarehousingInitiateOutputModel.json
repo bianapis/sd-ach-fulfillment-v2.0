@@ -1,0 +1,19 @@
+{
+  "outboundACHInstanceRecord" : {
+    "outboundACHTransactionBatchReference" : "756788"
+  },
+  "warehousingInstanceRecord" : {
+    "scheduleReleaseDateTime" : "09-22-2018"
+  },
+  "warehousingInitiateActionReference" : "WIAR700863",
+  "warehousingInitiateActionRecord" : {},
+  "warehousingInstanceStatus" : "warehousingInstanceStatus",
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      }
+    }
+  },
+  "warehousingInstanceReference" : "WIR747074"
+}

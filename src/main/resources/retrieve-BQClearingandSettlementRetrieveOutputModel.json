@@ -1,0 +1,46 @@
+{
+  "outboundACHInstanceRecord" : {
+    "outboundACHTransactionBatchReference" : "793623"
+  },
+  "clearingandSettlementRetrieveActionTaskRecord" : {},
+  "clearingandSettlementInstanceReport" : {
+    "clearingandSettlementInstanceReport" : {},
+    "clearingandSettlementInstanceReportRecord" : {},
+    "clearingandSettlementInstanceReportType" : "clearingandSettlementInstanceReportType",
+    "clearingandSettlementInstanceReportParameters" : "clearingandSettlementInstanceReportParameters"
+  },
+  "clearingandSettlementRetrieveActionTaskReference" : "CASRATR797610",
+  "clearingandSettlementRetrieveActionResponse" : "clearingandSettlementRetrieveActionResponse",
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "payerProductInstanceReference" : "764910",
+      "amount" : "USD 250",
+      "paymentTransactionInitiatorReference" : "766669",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "796385",
+      "payeeProductInstanceReference" : "779244",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "783153",
+      "payerBankReference" : "785060",
+      "payeeBankReference" : "772541",
+      "currency" : "USD"
+    },
+    "inboundACHTransactionBatchReference" : "764512",
+    "aCHPaymentTransactionReference" : "750396"
+  },
+  "clearingandSettlementInstanceAnalysis" : {
+    "clearingandSettlementInstanceAnalysisReportType" : "clearingandSettlementInstanceAnalysisReportType",
+    "clearingandSettlementInstanceAnalysisRecord" : {},
+    "clearingandSettlementInstanceAnalysisReport" : {},
+    "clearingandSettlementInstanceAnalysisParameters" : "clearingandSettlementInstanceAnalysisParameters"
+  },
+  "clearingandSettlementInstanceRecord" : {
+    "correspondentBankClearingAgreementSettlementInstructions" : "correspondentBankClearingAgreementSettlementInstructions",
+    "correspondentBankReference" : "756013",
+    "correspondentBankClearingAgreementClearingInstructions" : "correspondentBankClearingAgreementClearingInstructions",
+    "mirrorNostroAccountReference" : "708423",
+    "correspondentBankClearingAgreementReference" : "770996"
+  }
+}

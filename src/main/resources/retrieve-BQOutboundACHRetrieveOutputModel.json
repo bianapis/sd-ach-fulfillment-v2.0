@@ -1,0 +1,38 @@
+{
+  "outboundACHInstanceRecord" : {
+    "outboundACHTransactionBatchReference" : "798270"
+  },
+  "outboundACHRetrieveActionTaskRecord" : {},
+  "outboundACHInstanceAnalysis" : {
+    "outboundACHInstanceAnalysisReportType" : "outboundACHInstanceAnalysisReportType",
+    "outboundACHInstanceAnalysisReport" : {},
+    "outboundACHInstanceAnalysisRecord" : {},
+    "outboundACHInstanceAnalysisParameters" : "outboundACHInstanceAnalysisParameters"
+  },
+  "outboundACHRetrieveActionTaskReference" : "OARATR707957",
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "payerProductInstanceReference" : "715391",
+      "amount" : "USD 250",
+      "paymentTransactionInitiatorReference" : "705872",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "750029",
+      "payeeProductInstanceReference" : "755887",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "718421",
+      "payerBankReference" : "766963",
+      "payeeBankReference" : "782475",
+      "currency" : "USD"
+    },
+    "aCHPaymentTransactionReference" : "719548"
+  },
+  "outboundACHRetrieveActionResponse" : "outboundACHRetrieveActionResponse",
+  "outboundACHInstanceReport" : {
+    "outboundACHInstanceReportType" : "outboundACHInstanceReportType",
+    "outboundACHInstanceReportParameters" : "outboundACHInstanceReportParameters",
+    "outboundACHInstanceReportRecord" : {},
+    "outboundACHInstanceReport" : {}
+  }
+}

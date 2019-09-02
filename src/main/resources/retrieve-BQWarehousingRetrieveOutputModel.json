@@ -1,0 +1,41 @@
+{
+  "outboundACHInstanceRecord" : {
+    "outboundACHTransactionBatchReference" : "735440"
+  },
+  "warehousingInstanceRecord" : {
+    "scheduleReleaseDateTime" : "09-22-2018"
+  },
+  "warehousingRetrieveActionResponse" : "warehousingRetrieveActionResponse",
+  "warehousingInstanceReport" : {
+    "warehousingInstanceReportRecord" : {},
+    "warehousingInstanceReportParameters" : "warehousingInstanceReportParameters",
+    "warehousingInstanceReport" : {},
+    "warehousingInstanceReportType" : "warehousingInstanceReportType"
+  },
+  "warehousingInstanceAnalysis" : {
+    "warehousingInstanceAnalysisReportType" : "warehousingInstanceAnalysisReportType",
+    "warehousingInstanceAnalysisParameters" : "warehousingInstanceAnalysisParameters",
+    "warehousingInstanceAnalysisReport" : {},
+    "warehousingInstanceAnalysisRecord" : {}
+  },
+  "warehousingRetrieveActionTaskReference" : "WRATR725058",
+  "warehousingRetrieveActionTaskRecord" : {},
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "payerProductInstanceReference" : "797816",
+      "amount" : "USD 250",
+      "paymentTransactionInitiatorReference" : "702383",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "718043",
+      "payeeProductInstanceReference" : "779499",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "798951",
+      "payerBankReference" : "746172",
+      "payeeBankReference" : "721552",
+      "currency" : "USD"
+    },
+    "aCHPaymentTransactionReference" : "739895"
+  }
+}

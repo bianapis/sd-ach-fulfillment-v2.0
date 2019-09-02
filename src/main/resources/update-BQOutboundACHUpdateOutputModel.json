@@ -1,0 +1,26 @@
+{
+  "outboundACHInstanceRecord" : {
+    "outboundACHTransactionBatchReference" : "705596"
+  },
+  "outboundACHUpdateActionTaskReference" : "OAUATR713803",
+  "outboundACHUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "payerProductInstanceReference" : "719147",
+      "amount" : "USD 250",
+      "paymentTransactionInitiatorReference" : "781972",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "791326",
+      "payeeProductInstanceReference" : "788567",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "710391",
+      "payerBankReference" : "781057",
+      "payeeBankReference" : "744528",
+      "currency" : "USD"
+    },
+    "aCHPaymentTransactionReference" : "755626"
+  }
+}

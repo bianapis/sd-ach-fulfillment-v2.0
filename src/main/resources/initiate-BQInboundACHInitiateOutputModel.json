@@ -1,0 +1,14 @@
+{
+  "inboundACHInstanceStatus" : "inboundACHInstanceStatus",
+  "inboundACHInitiateActionReference" : "IAIAR724843",
+  "inboundACHInitiateActionRecord" : {},
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      }
+    },
+    "inboundACHTransactionBatchReference" : "721046"
+  },
+  "inboundACHInstanceReference" : "IAIR704126"
+}

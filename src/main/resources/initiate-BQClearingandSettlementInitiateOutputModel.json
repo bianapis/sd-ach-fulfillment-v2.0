@@ -1,0 +1,23 @@
+{
+  "outboundACHInstanceRecord" : {
+    "outboundACHTransactionBatchReference" : "721584"
+  },
+  "clearingandSettlementInitiateActionReference" : "CASIAR796341",
+  "clearingandSettlementInstanceStatus" : "clearingandSettlementInstanceStatus",
+  "clearingandSettlementInitiateActionRecord" : {},
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      }
+    }
+  },
+  "clearingandSettlementInstanceReference" : "CASIR739923",
+  "clearingandSettlementInstanceRecord" : {
+    "correspondentBankClearingAgreementSettlementInstructions" : "correspondentBankClearingAgreementSettlementInstructions",
+    "correspondentBankReference" : "782986",
+    "correspondentBankClearingAgreementClearingInstructions" : "correspondentBankClearingAgreementClearingInstructions",
+    "mirrorNostroAccountReference" : "745978",
+    "correspondentBankClearingAgreementReference" : "734718"
+  }
+}

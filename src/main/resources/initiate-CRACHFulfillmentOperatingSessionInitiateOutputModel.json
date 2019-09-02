@@ -1,0 +1,10 @@
+{
+  "aCHFulfillmentOperatingSessionInitiateActionReference" : "AFOSIAR766067",
+  "aCHFulfillmentOperatingSessionInitiateActionRecord" : {},
+  "aCHFulfillmentOperatingSessionInstanceRecord" : {
+    "aCHAccessSchedule" : "aCHAccessSchedule",
+    "aCHReference" : "779642"
+  },
+  "aCHFulfillmentOperatingSessionInstanceReference" : "AFOSIR715424",
+  "aCHFulfillmentOperatingSessionInstanceStatus" : "aCHFulfillmentOperatingSessionInstanceStatus"
+}

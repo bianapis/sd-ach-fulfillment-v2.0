@@ -1,0 +1,29 @@
+{
+  "outboundACHInstanceRecord" : {
+    "outboundACHTransactionBatchReference" : "746084"
+  },
+  "warehousingInstanceRecord" : {
+    "scheduleReleaseDateTime" : "09-22-2018"
+  },
+  "warehousingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "warehousingUpdateActionTaskReference" : "WUATR713181",
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "payerProductInstanceReference" : "745181",
+      "amount" : "USD 250",
+      "paymentTransactionInitiatorReference" : "791669",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "773921",
+      "payeeProductInstanceReference" : "763008",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "788598",
+      "payerBankReference" : "788111",
+      "payeeBankReference" : "737803",
+      "currency" : "USD"
+    },
+    "aCHPaymentTransactionReference" : "733474"
+  }
+}

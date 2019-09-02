@@ -1,0 +1,19 @@
+{
+  "outboundACHInstanceRecord" : {
+    "outboundACHTransactionBatchReference" : "736906"
+  },
+  "reconciliationInitiateActionRecord" : {},
+  "reconciliationInstanceRecord" : {
+    "aCHReconciliationTaskResult" : "aCHReconciliationTaskResult"
+  },
+  "reconciliationInitiateActionReference" : "RIAR720861",
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      }
+    }
+  },
+  "reconciliationInstanceStatus" : "reconciliationInstanceStatus",
+  "reconciliationInstanceReference" : "RIR700637"
+}

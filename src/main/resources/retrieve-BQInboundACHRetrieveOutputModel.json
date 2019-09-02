@@ -1,0 +1,36 @@
+{
+  "inboundACHRetrieveActionTaskRecord" : {},
+  "inboundACHRetrieveActionResponse" : "inboundACHRetrieveActionResponse",
+  "inboundACHInstanceReport" : {
+    "inboundACHInstanceReportType" : "inboundACHInstanceReportType",
+    "inboundACHInstanceReport" : {},
+    "inboundACHInstanceReportRecord" : {},
+    "inboundACHInstanceReportParameters" : "inboundACHInstanceReportParameters"
+  },
+  "inboundACHInstanceAnalysis" : {
+    "inboundACHInstanceAnalysisRecord" : {},
+    "inboundACHInstanceAnalysisParameters" : "inboundACHInstanceAnalysisParameters",
+    "inboundACHInstanceAnalysisReport" : {},
+    "inboundACHInstanceAnalysisReportType" : "inboundACHInstanceAnalysisReportType"
+  },
+  "inboundACHRetrieveActionTaskReference" : "IARATR746249",
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "payerProductInstanceReference" : "710186",
+      "amount" : "USD 250",
+      "paymentTransactionInitiatorReference" : "728892",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "797674",
+      "payeeProductInstanceReference" : "717328",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "761723",
+      "payerBankReference" : "737446",
+      "payeeBankReference" : "727295",
+      "currency" : "USD"
+    },
+    "inboundACHTransactionBatchReference" : "780319",
+    "aCHPaymentTransactionReference" : "743512"
+  }
+}

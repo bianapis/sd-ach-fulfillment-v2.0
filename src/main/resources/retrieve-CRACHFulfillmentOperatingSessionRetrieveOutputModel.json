@@ -1,0 +1,19 @@
+{
+  "aCHFulfillmentOperatingSessionInstanceRecord" : {
+    "aCHAccessSchedule" : "aCHAccessSchedule",
+    "aCHReference" : "734268"
+  },
+  "aCHFulfillmentOperatingSessionRetrieveActionResponse" : "aCHFulfillmentOperatingSessionRetrieveActionResponse",
+  "aCHFulfillmentOperatingSessionRetrieveActionTaskRecord" : {},
+  "aCHFulfillmentOperatingSessionRetrieveActionTaskReference" : "AFOSRATR791408",
+  "aCHFulfillmentOperatingSessionInstanceReportRecord" : {
+    "aCHFulfillmentOperatingSessionInstanceReportType" : "aCHFulfillmentOperatingSessionInstanceReportType",
+    "aCHFulfillmentOperatingSessionInstanceReport" : {},
+    "aCHFulfillmentOperatingSessionInstanceReportData" : "aCHFulfillmentOperatingSessionInstanceReportData"
+  },
+  "aCHFulfillmentOperatingSessionInstanceAnalysis" : {
+    "aCHFulfillmentOperatingSessionInstanceAnalysisData" : "aCHFulfillmentOperatingSessionInstanceAnalysisData",
+    "aCHFulfillmentOperatingSessionInstanceAnalysisReportType" : "aCHFulfillmentOperatingSessionInstanceAnalysisReportType",
+    "aCHFulfillmentOperatingSessionInstanceAnalysisReport" : {}
+  }
+}

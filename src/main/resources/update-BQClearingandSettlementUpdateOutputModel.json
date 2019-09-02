@@ -1,0 +1,34 @@
+{
+  "outboundACHInstanceRecord" : {
+    "outboundACHTransactionBatchReference" : "711440"
+  },
+  "clearingandSettlementUpdateActionTaskReference" : "CASUATR739734",
+  "updateResponseRecord" : {},
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "payerProductInstanceReference" : "724452",
+      "amount" : "USD 250",
+      "paymentTransactionInitiatorReference" : "761127",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "790745",
+      "payeeProductInstanceReference" : "761128",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "783658",
+      "payerBankReference" : "751799",
+      "payeeBankReference" : "791471",
+      "currency" : "USD"
+    },
+    "inboundACHTransactionBatchReference" : "746564",
+    "aCHPaymentTransactionReference" : "785395"
+  },
+  "clearingandSettlementUpdateActionTaskRecord" : {},
+  "clearingandSettlementInstanceRecord" : {
+    "correspondentBankClearingAgreementSettlementInstructions" : "correspondentBankClearingAgreementSettlementInstructions",
+    "correspondentBankReference" : "722228",
+    "correspondentBankClearingAgreementClearingInstructions" : "correspondentBankClearingAgreementClearingInstructions",
+    "mirrorNostroAccountReference" : "771754",
+    "correspondentBankClearingAgreementReference" : "795015"
+  }
+}

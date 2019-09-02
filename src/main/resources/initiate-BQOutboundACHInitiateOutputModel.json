@@ -1,0 +1,16 @@
+{
+  "outboundACHInstanceRecord" : {
+    "outboundACHTransactionBatchReference" : "724235"
+  },
+  "outboundACHInitiateActionRecord" : {},
+  "outboundACHInitiateActionReference" : "OAIAR773061",
+  "outboundACHInstanceStatus" : "outboundACHInstanceStatus",
+  "outboundACHInstanceReference" : "OAIR739114",
+  "inboundACHInstanceRecord" : {
+    "aCHPaymentTransactionRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      }
+    }
+  }
+}
