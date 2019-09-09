@@ -28,6 +28,7 @@ public class CRACHFulfillmentOperatingSessionInitiateOutputModel   {
    * @return aCHFulfillmentOperatingSessionInstanceReference
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInstanceReference")
   public String getACHFulfillmentOperatingSessionInstanceReference() {
     return aCHFulfillmentOperatingSessionInstanceReference;
   }
@@ -42,6 +43,7 @@ public class CRACHFulfillmentOperatingSessionInitiateOutputModel   {
    * @return aCHFulfillmentOperatingSessionInitiateActionReference
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInitiateActionReference")
   public String getACHFulfillmentOperatingSessionInitiateActionReference() {
     return aCHFulfillmentOperatingSessionInitiateActionReference;
   }
@@ -56,6 +58,7 @@ public class CRACHFulfillmentOperatingSessionInitiateOutputModel   {
    * @return aCHFulfillmentOperatingSessionInitiateActionRecord
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInitiateActionRecord")
   public Object getACHFulfillmentOperatingSessionInitiateActionRecord() {
     return aCHFulfillmentOperatingSessionInitiateActionRecord;
   }
@@ -70,6 +73,7 @@ public class CRACHFulfillmentOperatingSessionInitiateOutputModel   {
    * @return aCHFulfillmentOperatingSessionInstanceStatus
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInstanceStatus")
   public String getACHFulfillmentOperatingSessionInstanceStatus() {
     return aCHFulfillmentOperatingSessionInstanceStatus;
   }
@@ -84,6 +88,7 @@ public class CRACHFulfillmentOperatingSessionInitiateOutputModel   {
    * @return aCHFulfillmentOperatingSessionInstanceRecord
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInstanceRecord")
   public CRACHFulfillmentOperatingSessionInitiateInputModelACHFulfillmentOperatingSessionInstanceRecord getACHFulfillmentOperatingSessionInstanceRecord() {
     return aCHFulfillmentOperatingSessionInstanceRecord;
   }

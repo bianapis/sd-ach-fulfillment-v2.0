@@ -32,6 +32,7 @@ public class CRACHFulfillmentOperatingSessionRetrieveOutputModel   {
    * @return aCHFulfillmentOperatingSessionInstanceRecord
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInstanceRecord")
   public CRACHFulfillmentOperatingSessionRetrieveOutputModelACHFulfillmentOperatingSessionInstanceRecord getACHFulfillmentOperatingSessionInstanceRecord() {
     return aCHFulfillmentOperatingSessionInstanceRecord;
   }
@@ -46,6 +47,7 @@ public class CRACHFulfillmentOperatingSessionRetrieveOutputModel   {
    * @return aCHFulfillmentOperatingSessionRetrieveActionTaskReference
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionRetrieveActionTaskReference")
   public String getACHFulfillmentOperatingSessionRetrieveActionTaskReference() {
     return aCHFulfillmentOperatingSessionRetrieveActionTaskReference;
   }
@@ -60,6 +62,7 @@ public class CRACHFulfillmentOperatingSessionRetrieveOutputModel   {
    * @return aCHFulfillmentOperatingSessionRetrieveActionTaskRecord
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionRetrieveActionTaskRecord")
   public Object getACHFulfillmentOperatingSessionRetrieveActionTaskRecord() {
     return aCHFulfillmentOperatingSessionRetrieveActionTaskRecord;
   }
@@ -74,6 +77,7 @@ public class CRACHFulfillmentOperatingSessionRetrieveOutputModel   {
    * @return aCHFulfillmentOperatingSessionRetrieveActionResponse
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionRetrieveActionResponse")
   public String getACHFulfillmentOperatingSessionRetrieveActionResponse() {
     return aCHFulfillmentOperatingSessionRetrieveActionResponse;
   }
@@ -88,6 +92,7 @@ public class CRACHFulfillmentOperatingSessionRetrieveOutputModel   {
    * @return aCHFulfillmentOperatingSessionInstanceReportRecord
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInstanceReportRecord")
   public CRACHFulfillmentOperatingSessionRetrieveOutputModelACHFulfillmentOperatingSessionInstanceReportRecord getACHFulfillmentOperatingSessionInstanceReportRecord() {
     return aCHFulfillmentOperatingSessionInstanceReportRecord;
   }
@@ -102,6 +107,7 @@ public class CRACHFulfillmentOperatingSessionRetrieveOutputModel   {
    * @return aCHFulfillmentOperatingSessionInstanceAnalysis
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInstanceAnalysis")
   public CRACHFulfillmentOperatingSessionRetrieveOutputModelACHFulfillmentOperatingSessionInstanceAnalysis getACHFulfillmentOperatingSessionInstanceAnalysis() {
     return aCHFulfillmentOperatingSessionInstanceAnalysis;
   }

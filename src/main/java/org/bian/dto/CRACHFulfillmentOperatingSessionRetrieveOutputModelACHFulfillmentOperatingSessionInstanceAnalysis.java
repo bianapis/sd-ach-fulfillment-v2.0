@@ -23,6 +23,7 @@ public class CRACHFulfillmentOperatingSessionRetrieveOutputModelACHFulfillmentOp
    * @return aCHFulfillmentOperatingSessionInstanceAnalysisData
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInstanceAnalysisData")
   public String getACHFulfillmentOperatingSessionInstanceAnalysisData() {
     return aCHFulfillmentOperatingSessionInstanceAnalysisData;
   }
@@ -36,7 +37,7 @@ public class CRACHFulfillmentOperatingSessionRetrieveOutputModelACHFulfillmentOp
    * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Code  general-info: The type of external performance analysis report available 
    * @return aCHFulfillmentOperatingSessionInstanceAnalysisReportType
   **/
-
+@JsonProperty("aCHFulfillmentOperatingSessionInstanceAnalysisReportType")
   public String getACHFulfillmentOperatingSessionInstanceAnalysisReportType() {
     return aCHFulfillmentOperatingSessionInstanceAnalysisReportType;
   }
@@ -51,6 +52,7 @@ public class CRACHFulfillmentOperatingSessionRetrieveOutputModelACHFulfillmentOp
    * @return aCHFulfillmentOperatingSessionInstanceAnalysisReport
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInstanceAnalysisReport")
   public Object getACHFulfillmentOperatingSessionInstanceAnalysisReport() {
     return aCHFulfillmentOperatingSessionInstanceAnalysisReport;
   }

@@ -21,6 +21,7 @@ public class CRACHFulfillmentOperatingSessionInitiateInputModelACHFulfillmentOpe
    * @return aCHReference
   **/
 
+  @JsonProperty("aCHReference")
   public String getACHReference() {
     return aCHReference;
   }
@@ -35,6 +36,7 @@ public class CRACHFulfillmentOperatingSessionInitiateInputModelACHFulfillmentOpe
    * @return aCHAccessSchedule
   **/
 
+  @JsonProperty("aCHAccessSchedule")
   public String getACHAccessSchedule() {
     return aCHAccessSchedule;
   }

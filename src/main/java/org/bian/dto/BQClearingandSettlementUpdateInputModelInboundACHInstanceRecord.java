@@ -38,6 +38,7 @@ public class BQClearingandSettlementUpdateInputModelInboundACHInstanceRecord   {
    * @return aCHPaymentTransactionReference
   **/
 
+  @JsonProperty("aCHPaymentTransactionReference")
   public String getACHPaymentTransactionReference() {
     return aCHPaymentTransactionReference;
   }
@@ -52,6 +53,7 @@ public class BQClearingandSettlementUpdateInputModelInboundACHInstanceRecord   {
    * @return aCHPaymentTransactionRecord
   **/
 
+  @JsonProperty("aCHPaymentTransactionRecord")
   public BQClearingandSettlementUpdateInputModelInboundACHInstanceRecordACHPaymentTransactionRecord getACHPaymentTransactionRecord() {
     return aCHPaymentTransactionRecord;
   }

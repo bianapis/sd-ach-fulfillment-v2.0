@@ -20,6 +20,7 @@ public class BQOutboundACHInitiateOutputModelInboundACHInstanceRecord   {
    * @return aCHPaymentTransactionRecord
   **/
 
+  @JsonProperty("aCHPaymentTransactionRecord")
   public BQInboundACHInitiateOutputModelInboundACHInstanceRecordACHPaymentTransactionRecord getACHPaymentTransactionRecord() {
     return aCHPaymentTransactionRecord;
   }

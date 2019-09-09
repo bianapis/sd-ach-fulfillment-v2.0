@@ -19,6 +19,7 @@ public class BQReconciliationInitiateInputModelReconciliationInstanceRecord   {
    * @return aCHReconciliationTaskResult
   **/
 
+  @JsonProperty("aCHReconciliationTaskResult")
   public String getACHReconciliationTaskResult() {
     return aCHReconciliationTaskResult;
   }

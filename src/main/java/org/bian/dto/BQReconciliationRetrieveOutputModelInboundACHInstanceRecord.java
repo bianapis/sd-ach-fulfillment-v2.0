@@ -38,6 +38,7 @@ public class BQReconciliationRetrieveOutputModelInboundACHInstanceRecord   {
    * @return aCHPaymentTransactionReference
   **/
 
+  @JsonProperty("aCHPaymentTransactionReference")
   public String getACHPaymentTransactionReference() {
     return aCHPaymentTransactionReference;
   }
@@ -52,6 +53,7 @@ public class BQReconciliationRetrieveOutputModelInboundACHInstanceRecord   {
    * @return aCHPaymentTransactionRecord
   **/
 
+  @JsonProperty("aCHPaymentTransactionRecord")
   public BQReconciliationRetrieveOutputModelInboundACHInstanceRecordACHPaymentTransactionRecord getACHPaymentTransactionRecord() {
     return aCHPaymentTransactionRecord;
   }

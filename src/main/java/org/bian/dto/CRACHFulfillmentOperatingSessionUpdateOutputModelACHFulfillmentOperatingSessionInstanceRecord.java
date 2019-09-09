@@ -19,6 +19,7 @@ public class CRACHFulfillmentOperatingSessionUpdateOutputModelACHFulfillmentOper
    * @return aCHAccessSchedule
   **/
 
+  @JsonProperty("aCHAccessSchedule")
   public String getACHAccessSchedule() {
     return aCHAccessSchedule;
   }

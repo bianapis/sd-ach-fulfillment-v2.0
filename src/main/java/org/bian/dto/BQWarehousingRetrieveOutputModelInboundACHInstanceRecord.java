@@ -22,6 +22,7 @@ public class BQWarehousingRetrieveOutputModelInboundACHInstanceRecord   {
    * @return aCHPaymentTransactionReference
   **/
 
+  @JsonProperty("aCHPaymentTransactionReference")
   public String getACHPaymentTransactionReference() {
     return aCHPaymentTransactionReference;
   }
@@ -35,7 +36,7 @@ public class BQWarehousingRetrieveOutputModelInboundACHInstanceRecord   {
    * Get aCHPaymentTransactionRecord
    * @return aCHPaymentTransactionRecord
   **/
-
+@JsonProperty("aCHPaymentTransactionRecord")
   public BQWarehousingRetrieveOutputModelInboundACHInstanceRecordACHPaymentTransactionRecord getACHPaymentTransactionRecord() {
     return aCHPaymentTransactionRecord;
   }

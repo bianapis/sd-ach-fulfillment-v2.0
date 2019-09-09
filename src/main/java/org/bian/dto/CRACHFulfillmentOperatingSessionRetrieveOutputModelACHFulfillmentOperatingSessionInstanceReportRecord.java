@@ -23,6 +23,7 @@ public class CRACHFulfillmentOperatingSessionRetrieveOutputModelACHFulfillmentOp
    * @return aCHFulfillmentOperatingSessionInstanceReportData
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInstanceReportData")
   public String getACHFulfillmentOperatingSessionInstanceReportData() {
     return aCHFulfillmentOperatingSessionInstanceReportData;
   }
@@ -37,6 +38,7 @@ public class CRACHFulfillmentOperatingSessionRetrieveOutputModelACHFulfillmentOp
    * @return aCHFulfillmentOperatingSessionInstanceReportType
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInstanceReportType")
   public String getACHFulfillmentOperatingSessionInstanceReportType() {
     return aCHFulfillmentOperatingSessionInstanceReportType;
   }
@@ -51,6 +53,7 @@ public class CRACHFulfillmentOperatingSessionRetrieveOutputModelACHFulfillmentOp
    * @return aCHFulfillmentOperatingSessionInstanceReport
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionInstanceReport")
   public Object getACHFulfillmentOperatingSessionInstanceReport() {
     return aCHFulfillmentOperatingSessionInstanceReport;
   }

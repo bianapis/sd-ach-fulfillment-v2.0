@@ -23,6 +23,7 @@ public class CRACHFulfillmentOperatingSessionControlOutputModel   {
    * @return aCHFulfillmentOperatingSessionControlActionTaskReference
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionControlActionTaskReference")
   public String getACHFulfillmentOperatingSessionControlActionTaskReference() {
     return aCHFulfillmentOperatingSessionControlActionTaskReference;
   }
@@ -37,6 +38,7 @@ public class CRACHFulfillmentOperatingSessionControlOutputModel   {
    * @return aCHFulfillmentOperatingSessionControlActionTaskRecord
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionControlActionTaskRecord")
   public Object getACHFulfillmentOperatingSessionControlActionTaskRecord() {
     return aCHFulfillmentOperatingSessionControlActionTaskRecord;
   }
@@ -51,6 +53,7 @@ public class CRACHFulfillmentOperatingSessionControlOutputModel   {
    * @return aCHFulfillmentOperatingSessionControlActionResponse
   **/
 
+  @JsonProperty("aCHFulfillmentOperatingSessionControlActionResponse")
   public String getACHFulfillmentOperatingSessionControlActionResponse() {
     return aCHFulfillmentOperatingSessionControlActionResponse;
   }
